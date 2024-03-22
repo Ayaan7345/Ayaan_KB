@@ -39,7 +39,7 @@
 		- [ ] [[Introduction to Active Directory]](https://academy.hackthebox.com/module/details/74)
 		- [ ] [[SQL Injection Fundamentals]](https://academy.hackthebox.com/module/details/33)
 		- [ ] [[Using the Metasploit Framework]](https://academy.hackthebox.com/module/details/39/)
-	- [ ] Module 2: #networking Enumeration and Exploitation
+	- [ ] Module 2: #network Enumeration and Exploitation
 		- [ ] [[#networking Enumeration with Nmap]](https://academy.hackthebox.com/module/details/19)
 		- [ ] [[Password Attacks]](https://academy.hackthebox.com/module/details/147)
 		- [ ] [[Penetration Testing Process]](https://academy.hackthebox.com/module/details/90)

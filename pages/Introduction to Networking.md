@@ -1,4 +1,4 @@
-- The importance of #networking
+- The importance of #network
 - Questions
 	- What is Suricata or Snort
 		- Suricata and Snorby are open-source intrusion detection and prevention tools. Suricata is a network security monitoring engine, capable of detecting malicious activity in real time on network traffic. Snorby is a web-based front-end for the Snort IDS system, allowing users to monitor and analyze network traffic.

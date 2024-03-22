@@ -1,6 +1,4 @@
 # Ayaan_KB
-Certainly! Below is an expanded version of your text:
-
 ---
 
 Welcome to my knowledge base! This is where I diligently document various projects I'm involved in and keep track of the tasks and ideas that I'm currently working on. I've chosen Logseq as my tool of choice for managing this knowledge base due to its flexibility and support for Markdown files, which allows for easy integration with other platforms like GitHub.
@@ -26,13 +24,5 @@ To install Logseq:
 
 Once you have Logseq installed, you can create a new page or open an existing one to add your graph. Logseq supports Markdown, so you can copy the graph representation provided earlier into a Markdown file and import it into Logseq.
 
-Here's how you can do it:
-
-1. Copy the graph representation provided earlier.
-2. Open a text editor and paste the copied graph.
-3. Save the file with a `.md` extension.
-4. Open Logseq.
-5. Create a new page or open an existing one where you want to add the graph.
-6. Drag and drop the `.md` file into the Logseq interface. Logseq will automatically import the Markdown file, including the graph.
-
+I have removed the Logseq folder from this graph when you add this graph please add the logseq folder
 Once imported, you should see your graph within Logseq, and you can interact with it as needed. Let me know if you need further assistance!

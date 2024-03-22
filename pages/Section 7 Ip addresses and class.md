@@ -1,8 +1,8 @@
 - Class A #IP addresses
 	- ![07-02+Class+A+IP+Addresses.pdf](../assets/07-02+Class+A+IP+Addresses_1688446644942_0.pdf)
-	- Class A are for very large #networkings
-	- IANA Internet Assigning #networking Authority
-	- this #networking class is from 1.0.0.0 to 126.0.0.0
+	- Class A are for very large #network
+	- IANA Internet Assigning #network Authority
+	- this #network class is from 1.0.0.0 to 126.0.0.0
 - Class B #IP addresses
 	- ![07-03+IP+Address+Classes+B+and+C.pdf](../assets/07-03+IP+Address+Classes+B+and+C_1688447049371_0.pdf)
 	- This class is used for mid sized companys

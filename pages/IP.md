@@ -1,4 +1,4 @@
-- Give a detailed explanation as to what is #IP in #Networking
+- Give a detailed explanation as to what is #IP in #network
 	- The term '#IP' stands for Internet Protocol, and it is a fundamental concept in #network communications. It can be best understood as a set of rules that regulate how data is sent and received over the Internet or other networks.
 	  
 	  Internet Protocol is a part of the TCP/IP protocol suite, which is used to handle the communication of data packets across the #network. TCP/IP stands for Transmission Control Protocol/Internet Protocol, representing two key protocols.

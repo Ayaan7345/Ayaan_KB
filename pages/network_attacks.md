@@ -1,5 +1,5 @@
-# Network Attacks 
-
+# Network Attacks
+# Network Attacks
 ### Seclists
 
 [SecLists](https://github.com/danielmiessler/SecLists) is a great list containing common usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and more.
@@ -7,7 +7,6 @@
 ```
 apt-get install seclists
 ```
-
 ### Hydra
 
 Hydra is a fast, parallelized, network authentication cracker that supports different protocols.
@@ -15,24 +14,20 @@ Hydra is a fast, parallelized, network authentication cracker that supports diff
 hydra -L <users file> -P <password file> -t 10 <target> ssh -s 22
 hydra -L <users file> -P <password file> telnet://<target>
 ```
-
 ### Windows Shares
 
 NetBIOS can supply some of the following information when querying a computer:
-
 - Hostname
 - NetBIOS name
 - Domain
 - Network Shares
 
 Badly configured shares exploitation can lead to:
-
 - Information disclosure
 - Unauthorized file access
 - Information leakage used to mount a target attack
 
 Null session attacks can be used to enumerate a lot of information. Attackers can steal information about:
-
 - Passwords
 - System users
 - System Groups
@@ -62,7 +57,6 @@ smbclient //<target>/share -N (mount share)
 enum4linux -a <target>
 ```
 By default enum4linux performs:
-
 - User enumeration
 - Share enumeration
 - Group and member enumeration
@@ -70,7 +64,6 @@ By default enum4linux performs:
 - OS information detection
 - A nmblookup run
 - Printer information extraction
-
 ### ARP Poisoning/Spoofing (Dsniff)
 
 ARP Poisoning is a powerful attack you can use to intercept traffic on a switched network.
@@ -87,7 +80,6 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 arpspoof -i eth0 -t 192.168.1.5 -r 192.168.1.6
 # Then run Wireshark and intercept the traffic
 ```
-
 ### Metasploit
 
 Metasploit is an open-source framework used for penetration testing and exploit development.
@@ -95,7 +87,6 @@ Metasploit is an open-source framework used for penetration testing and exploit 
 Metasploit gives you a wide array of commuunity contributed exploits and attack vectors that can be used against various systems and technoologies.
 
 Basic workflow to exploit a target using MSFConsole:
-
 - Identifying a vulnerable service
 - Searching for a proper exploit for that service
 - Loading and configuring the exploit
@@ -128,12 +119,10 @@ exploit
 Payloads are pieces of code injected by an exploit module into the victim machine or service.
 
 A payload is used by an attacker to get:
-
 - An OS Shell
 - A VNC or RDP connection
 - A Meterpreter shell
 - The execution of an attacker-supplied application
-
 ### Meterpreter
 
 Meterpreter is a very powerful shell which runs on Android, BSD, Java, Linux, PHP, Python, and Windows vulnerable applications and services.
@@ -141,7 +130,6 @@ Meterpreter is a very powerful shell which runs on Android, BSD, Java, Linux, PH
 Meterpreter is more than a simple shell. It provides advanced features to gather information, transfer files between the attacker and victim machines, install backdoors and more.
 
 Meterpreter lets you perform information gathering on the exploited machine and the network it is attached to. You can retrieve:
-
 - Information about the machine and the OS
 - The network configuration in use
 - The routing table of the compromised host

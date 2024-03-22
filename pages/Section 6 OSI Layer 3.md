@@ -4,7 +4,7 @@
 - #IP
 	- IP is the best known layer 3 protocol IPv4
 	- ip addressing is a logical addressing scheme
-	- you can partition different parts of the #networking with ip
+	- you can partition different parts of the #network with ip
 -
 - #IP headers
   id:: 64a201a6-19c1-4b75-af5d-e58c0c19124a
@@ -17,10 +17,10 @@
 		- goes to **one** host
 		- ![image.png](../assets/image_1688345342272_0.png)
 	- Multicast
-		- is sent to one copy of a packet to multiple hosts on the #networking
+		- is sent to one copy of a packet to multiple hosts on the #network
 		- ![image.png](../assets/image_1688345578865_0.png)
 	- Broadcast
-		- is sent to the entire #networking
+		- is sent to the entire #network
 		- routers do not forward broadcast traffic
 		- ![image.png](../assets/image_1688345398094_0.png){:height 390, :width 681}
 - How to count in bianary

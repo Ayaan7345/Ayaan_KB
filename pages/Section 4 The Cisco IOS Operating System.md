@@ -1,12 +1,12 @@
 - Cisco operating systems
   id:: 64a1ca37-e084-4cc7-8415-b57558bc2666
 	- ![04-02+Cisco+Operating+Systems.pdf](../assets/04-02+Cisco+Operating+Systems_1688324837319_0.pdf)
-- Connecting to Cisco Devices over the #networking
+- Connecting to Cisco Devices over the #network
   id:: 64a1cae6-67dd-45fc-8eb3-c5fa27835da2
 	- ![04-03a+Connecting+to+a+Cisco+Device+over+the+#networking.pdf](../assets/04-03a+Connecting+to+a+Cisco+Device+over+the+#networking_1688324910777_0.pdf)
-	- In the real world you can use Putty or a Linux terminal to connect to a router over the #networking
+	- In the real world you can use Putty or a Linux terminal to connect to a router over the #network
 	- To configure or manage a Cisco device you have to connect to the management ip address.
-	- In enterprise #networkings secure login will typically be enforeced with a central #AAA system Authentication, Authorization and Accounting server
+	- In enterprise #network secure login will typically be enforeced with a central #AAA system Authentication, Authorization and Accounting server
 - Making the initial connection
   id:: 64a1cd66-165a-4f5e-b389-87de3a111bdf
 	- ![04-03b+Initial+Connection+to+a+Cisco+Device.pdf](../assets/04-03b+Initial+Connection+to+a+Cisco+Device_1688326191247_0.pdf)

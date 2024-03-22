@@ -1,11 +1,9 @@
 # Footprinting & Scanning
 
 This is the infrastrucutre part of the information gathering.
-
 ### Mapping a network
 
 Mapping a network helps the pentester get an idea of how the network is structured.
-
 ### Ping sweep
 
 Ping sweeping helps find all live hosts in a network range.
@@ -14,7 +12,6 @@ Ping sweeping helps find all live hosts in a network range.
 fping -a -g 192.168.1.0/24 2>/dev/null
 nmap -sn 192.168.1.0/24
 ```
-
 ### OS fingerprinting
 
 OS fingerprinting is the process of determinig the operating system used by a host on a network.
@@ -23,7 +20,6 @@ OS fingerprinting is the process of determinig the operating system used by a ho
 # OS Detection, no ping
 nmap -Pn -O <target(s)>
 ```
-
 ### Port Scanning
 
 Port scanning allows for discvoery of running daemons and services of each node on the network.

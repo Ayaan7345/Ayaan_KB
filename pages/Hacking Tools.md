@@ -5,7 +5,7 @@
 	- [[nmap]]
 	- [[dig]]
 	  collapsed:: true
-		- Dig is a command-line tool used for querying the Domain Name System (DNS) to obtain information about domain names, IP addresses, and other DNS records. It is a useful tool for #networking troubleshooting and educational purposes[3]. Here are some of the most commonly used Dig commands:
+		- Dig is a command-line tool used for querying the Domain Name System (DNS) to obtain information about domain names, IP addresses, and other DNS records. It is a useful tool for #network troubleshooting and educational purposes[3]. Here are some of the most commonly used Dig commands:
 		- 1. To perform a basic DNS lookup for a domain name:
 		- `dig example.com`
 		- 2. To perform a DNS lookup for a specific record type, such as an A record:

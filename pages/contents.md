@@ -1,5 +1,5 @@
 - [[Hacking Tools]]
-- [[Networking]]
+- [[network]]
 - [[Linux]]
 - [[CTF]]
   collapsed:: true

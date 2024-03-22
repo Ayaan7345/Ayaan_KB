@@ -2,8 +2,8 @@
   id:: 64a0f550-af6f-4153-ac09-b18bb6cff08a
   collapsed:: true
 	- ![03-02+A+(Very)+Basic+Introduction+to+##networking.pdf](../assets/03-02+A+(Very)+Basic+Introduction+to+##networking_1688270254072_0.pdf)
-	- This is a basic #networking topology
-	- When building a #networking there are some things to keep in mind
+	- This is a basic #network topology
+	- When building a #network there are some things to keep in mind
 	- Topology
 	  Speed
 	  Cost
@@ -28,7 +28,7 @@
 	- ![03-05+The+Upper+OSI+Layers.pdf](../assets/03-05+The+Upper+OSI+Layers_1688271956636_0.pdf)
 	- Layer 7 Application layer
 		- This layer does not provide servies to any other osi layer
-		- This layer helps with #networking services to make sure the data got there correctly
+		- This layer helps with #network services to make sure the data got there correctly
 	- layer 6 Presentation layer
 		- This layer translates the data for the end user to use
 	- layer 5 session
@@ -42,7 +42,7 @@
 	- Layer 4 Transport
 		- This is where #tcp or #UDP is used and the port number
 			- This layer breaks down large files into smaller segments
-	- layer 3 #networking
+	- layer 3 #network
 		- This is where the source and destination ip is solved
 		- routers are on this layer
 		- ip is logical addressing

@@ -8,7 +8,7 @@
 - Perform an RPC scan: ```nikto -rpc [target]```
 - Scan specific ports or scan entire port ranges on a local or remote server: ```nikto -p [port] [target]``` or ```nikto -p [port-range] [target]```
   
-  Nikto is a useful tool for #networking and system administrators, cybersecurity enthusiasts, and penetration testers to find potential security threats in web applications.
+  Nikto is a useful tool for #network and system administrators, cybersecurity enthusiasts, and penetration testers to find potential security threats in web applications.
   
   Citations:
   [1] https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/

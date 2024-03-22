@@ -67,7 +67,7 @@
   | `-T <0-5>` | Specifies the specific timing template. |
 -
 - _________________________________________________________________________________________________________
-- Nmap is a command-line tool used for #networking exploration and security auditing. It is a free and open-source utility for #networking discovery and security auditing. Nmap is used by hackers, cybersecurity enthusiasts, #networking and system administrators, and penetration testers to find services, hosts, and open ports on a computer #networking. Nmap is used for the following purposes:
+- Nmap is a command-line tool used for #network exploration and security auditing. It is a free and open-source utility for #network discovery and security auditing. Nmap is used by hackers, cybersecurity enthusiasts, #network and system administrators, and penetration testers to find services, hosts, and open ports on a computer #network. Nmap is used for the following purposes:
 - Scan a range of IP addresses
 - Port scanning
 - Ping scan using Nmap
@@ -87,7 +87,7 @@
 - Perform an RPC scan: ```nmap -sR [target]```
 - Scan specific ports or scan entire port ranges on a local or remote server: ```nmap -p [port] [target]``` or ```nmap -p [port-range] [target]```
   
-  Nmap is a powerful tool used for #networking and security auditing of #networkings. It is helpful for quickly finding useful information about the #networkings, ports, hosts, and operating systems.
+  Nmap is a powerful tool used for #network and security auditing of #network. It is helpful for quickly finding useful information about the #network, ports, hosts, and operating systems.
   
   Citations:
   [1] https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/
