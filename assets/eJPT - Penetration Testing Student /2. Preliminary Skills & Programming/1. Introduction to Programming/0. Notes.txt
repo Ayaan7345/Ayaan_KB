@@ -1,0 +1,6 @@
+
+	Read
+		1. What is Programming
+		2. Low and High-Level Languages
+		3. Programming and Scripting
+		4. Basic Concepts

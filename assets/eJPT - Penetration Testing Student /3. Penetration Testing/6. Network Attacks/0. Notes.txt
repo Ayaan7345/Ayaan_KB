@@ -1,0 +1,44 @@
+
+	Read
+		1. Authentication Cracking
+		
+	See
+		2. Hydra: Authentication Cracking
+	
+	Lab
+		3. Bruteforce and Password cracking
+	
+	Read
+		4. Windows Shares
+		5. Null Sessions
+	See
+		6. Null Session
+	
+	Lab
+		7. Null Session
+	
+	Read
+		8. ARP Poisoning
+	
+	See
+		9. ARP Spoofing
+	
+	Lab
+		10. ARP Spoofing
+		
+	Read
+		11. Metasploit
+		
+	See
+		12. Metasploit
+	
+	Lab
+		13. Metasploit
+		
+	Read
+		14. Meterpreter
+	
+	See
+		15. Meterpreter
+		16. Beyond Remote Code Execution
+		17. Shells

@@ -1,0 +1,16 @@
+
+	Read
+		1. Malware
+		
+	See
+		2. Backdoor
+	
+	Read
+		3. Password Attacks
+	
+	See
+		4. John the Ripper
+		5. Hashcat
+	
+	Read
+		6. Buffer Overflow Attacks

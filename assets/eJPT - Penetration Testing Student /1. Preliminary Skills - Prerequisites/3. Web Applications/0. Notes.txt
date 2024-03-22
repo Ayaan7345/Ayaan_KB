@@ -1,0 +1,25 @@
+
+	Read
+		1. Web Application Introduction
+		2. HTTP Protocol Basics
+		
+	See
+		3. HTTP(s) Protocol Basics
+
+	Read
+		4. HTTP Cookies
+		5. Sessions
+		
+	See
+		6. HTTP(s) Cookies and Sessions
+	
+	Read
+		7. Same Origin Policy
+		8. Burp Suite
+	
+	See
+		9. Burpsuite
+		
+	Lab
+		10. Burp Suite Basics
+		11. Burp Suite

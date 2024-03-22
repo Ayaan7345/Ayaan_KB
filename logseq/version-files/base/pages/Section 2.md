@@ -1,0 +1,2 @@
+- How to setup Cisco Packet tracer (already have this done) anki was also given.e
+-

@@ -1,0 +1,18 @@
+
+	Read
+		1. Bash Shell
+		2. Bash Environment
+		3. Bash Commands and Programs 
+		4. Bash Output Redirectors and Special Characters
+		5. Bash Conditional Statements and Loops
+		
+	See
+		6. Bash Scripting Part 1
+		7. Bash Scripting Part 2
+	
+	Read
+		8. Windows Command Line
+		9. Windows Environment
+		10. Windows Commands and Programs
+		11. Windows Output Redirectors and Special Characters
+		12. Windows Conditional Statements and Loops

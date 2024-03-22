@@ -1,0 +1,22 @@
+
+	Read
+		1. Protocols
+		2. Internet Protocols (IP)
+		3. Routing
+		4. Link Layer Devices & Protocols
+		5. TCP & UDP (3 Optional Resource)
+		6. Firewall & Defense
+
+	Lab
+		7. Find the Secret Server
+		
+	Read
+		8. DNS
+		9. Wireshark
+		
+	See
+		10. Using Wireshark
+		11. Full Stack Analysis with Wireshark
+	
+	Lab
+		12. Data Exfiltration

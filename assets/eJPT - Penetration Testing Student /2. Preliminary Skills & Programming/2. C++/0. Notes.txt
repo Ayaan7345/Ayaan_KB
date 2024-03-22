@@ -1,0 +1,14 @@
+
+	Read
+		1. C++ IDE
+		2. Structure of C++ Programs
+		3. Variables and Types
+		4. Input / Output
+		5. Operators
+		6. Iteration and Conditional Structures
+		7. Pointers
+		8. Arrays
+		9. Functions
+	
+	Lab
+		10. C++ assisted exploitation

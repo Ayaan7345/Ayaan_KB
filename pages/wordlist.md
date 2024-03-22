@@ -1,0 +1,2 @@
+- https://github.com/gmelodie/awesome-wordlists
+-

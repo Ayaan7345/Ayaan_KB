@@ -1,0 +1,17 @@
+
+	Read
+		1. Disclaimer 
+		2. Mapping a Network
+
+	See
+		3. NMAP OS Fingerprinting
+
+	Read
+		4. Port Scanning
+	
+	See
+		5. NMAP Port Scanning
+		6. Basic Masscan Usage
+		
+	Lab
+		7. Scanning and OS Fingerprinting

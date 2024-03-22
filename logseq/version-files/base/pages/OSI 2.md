@@ -1,0 +1,2 @@
+- What is the acryonm for the osi model layer #card
+	- Please do not throw sausage pizza away

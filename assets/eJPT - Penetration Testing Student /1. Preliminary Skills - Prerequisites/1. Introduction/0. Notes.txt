@@ -1,0 +1,15 @@
+
+	Read
+		1. The Information Security Field
+		2. Cryptography & VPNs
+		3. Wireshark Introduction
+		
+	See
+		4. HTTP(s) Traffic Sniffing
+		5. Connecting to your first lab
+
+	Lab
+		6. HTTP(S) Traffic Sniffing
+		
+	Read
+		7. Binary Arithmetic Basics

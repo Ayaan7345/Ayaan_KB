@@ -1,0 +1,19 @@
+- #HTB
+	- Pilgrimage
+		- Recon
+			- #nmap Scan
+			- Fuff Scan
+			- Nikto Scan
+		- Web exploitation
+		- Privilege Escalation
+		- Notes
+			- Resources
+			- Strategies
+			- Other Notes
+				- User
+					- emily:x:1000:1000:emily,,,:/home/emily:/bin/bash
+					- emily password emily abigchonkyboi123
+			- Video walk through
+				- [2023-08-15_19-02-51.mkv](../assets/2023-08-15_19-02-51_1692170775926_0.mkv)
+				-
+			-

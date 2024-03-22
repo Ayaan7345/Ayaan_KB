@@ -1,0 +1,18 @@
+- #HTB
+	- **CTF**
+		- Recon
+			- Nmap Scan
+			- Fuff Scan
+			- Nikto Scan
+		- Web exploitation
+		- Privilege Escalation
+		- Notes
+			- Resources
+			- Strategies
+				- Tried a Nmap scan nothing was there to help me so then i tried to be a bit evasive by doing a syn scan with nmap
+				- weird website it creates blogs with subdomains so mapping those out might be difficult but it dosn't work  03:33 am
+				- tried to search for vulnerability nothing came up on the first attempt Search Query "microblog vulnerability" 03:42 am
+				-
+				-
+				-
+			- Other Notes

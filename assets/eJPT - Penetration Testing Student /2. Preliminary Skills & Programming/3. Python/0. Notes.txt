@@ -1,0 +1,14 @@
+
+	Read
+		1. About Python
+		2. Variables and Types
+		3. Input / Output
+		4. Control Flow
+		5. Lists 
+		6. Dictionaries 
+		7. Functions 
+		8. Modules
+		9. Pentester Scripting
+	
+	Lab
+		10. Python assisted exploitation

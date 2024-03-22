@@ -1,0 +1,35 @@
+
+	Read
+		1. Introduction 
+		2. Web Server Fingerprinting
+		3. HTTP Verbs
+	
+	See
+		4. Netcat
+	
+	Read
+		5. Directories and Files Enumeration
+	
+	See
+		6. Dirbuster
+		7. Dirb
+	
+	Lab
+		8. Dirbuster
+	
+	Read
+		9. Google Hacking
+		10. Cross Site Scripting
+	
+	Lab
+		11. Cross Site Scripting
+		
+	Read
+		12. SQL Injections
+	
+	See
+		13. SQL Injection
+		14. Sqlmap
+	
+	Lab
+		15. SQL Injection
