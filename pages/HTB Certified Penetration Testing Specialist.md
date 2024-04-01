@@ -18,6 +18,6 @@
 	  CLOCK: [2023-08-10 Thu 17:47:20]
 	  CLOCK: [2023-08-15 Tue 02:30:23]--[2023-08-15 Tue 02:30:24] =>  00:00:01
 	  :END:
-	- TODO [[Footprinting]]
+	- DONE [[Footprinting]]
 	-
 -

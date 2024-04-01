@@ -13,7 +13,7 @@
 	-
 - Certification
   collapsed:: true
-	- [[Secturity +]]
+	- [[Security +]]
 	- [[ejpt program]]
 	- [[CCNA]]
 -

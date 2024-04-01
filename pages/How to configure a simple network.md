@@ -1,11 +1,9 @@
 ## Creating a Simple #network with Cisco Gear
-collapsed:: true
 	- Network Topology Diagram
 	  collapsed:: true
 		- {{renderer :drawio, 1711145213409.svg}}
 		- ![image.png](../assets/image_1711145276358_0.png)
 	- Router configuration
-	  collapsed:: true
 		- ```CISCO
 		  ! Enable interfaces
 		  enable
@@ -43,7 +41,6 @@ collapsed:: true
 		  write memory
 		  ```
 	- Switch configuration
-	  collapsed:: true
 		- ```Cisco
 		  ! Enable interfaces
 		  enable
