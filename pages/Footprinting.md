@@ -98,7 +98,6 @@
 	  What can we not see?
 	  What reasons can there be that we do not see?
 	  What image results for us from what we do not see?
-		- that
 - Enumeration methodology
 	- | **Layer** | **Description** | **Information Categories** |
 	  | ---- | ---- | ---- |
